@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "apollo-react-next": "https://imshealth.myget.org/F/apollo/auth/1963048a-0a1a-4f87-8732-a15a2d54e73e/npm/apollo-react-next/-/2.1.1-beta",
+    "axios": "^0.18.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.5",
-    "redux": "^4.0.1",
-    "apollo-react-next": "https://imshealth.myget.org/F/apollo/auth/1963048a-0a1a-4f87-8732-a15a2d54e73e/npm/apollo-react-next/-/2.1.1-beta"
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

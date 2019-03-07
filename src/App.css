@@ -1,1 +1,33 @@
+nav {
+  min-height: 40px;
+  padding-top: 15px;
+  width: 100%;
+  font-size: 18px;
+  text-align: center;
+  background-color: #26359a;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: skyblue;
+}
+
+nav a:hover,
+nav a:visited:hover {
+  color: chartreuse;
+}
+
+nav a:visited {
+  color: hotpink;
+}
 
